@@ -1,0 +1,97 @@
+body{
+    background-image: url(back2.avif);
+    display: flex;
+    align-items:left;
+    justify-content:left;
+    min-height: 100vh;
+}
+.logo{
+    
+    width: 100%;
+    position: relative;
+    
+}
+.logo2{
+    width: 600px;
+    height: 75px;
+    position: relative;
+    top: 30px;
+    left: 75px;
+    border-radius: 10px;
+}
+.cont{
+
+  
+   backdrop-filter: blur(40PX);
+    width: 800px;
+    height: 620px;
+    padding: 5px;
+    position: relative;
+    top: 40px;
+    left: 30px;
+    border-radius: 30px;
+    border: 2px solid;
+} 
+
+h1{
+    text-align: center;
+    padding: 0px 0px;
+    font-size: 25px;
+}
+.box{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.ex{
+    width: 25%;
+    padding: 10px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid;
+    border-radius: 4px;
+    box-sizing: border-box;
+    position: relative;
+    bottom: 8px;
+    right: 27px;
+    
+}
+.cvv{
+    width: 25%;
+    padding: 10px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid;
+    border-radius: 4px;
+    box-sizing: border-box;
+    position: relative;
+    bottom: 8px;
+    right: 1px;
+}
+.cv{
+    position: relative;
+    top: 10px;
+    right: 9px;
+}
+
+
+.expire{
+    display: flex;
+}
+.pay{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: aqua;
+}
+    
+    
+    
